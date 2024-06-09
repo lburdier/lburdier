@@ -1,6 +1,5 @@
 <h1>👋 Bonjour, je m'appelle Lucas Burdier</h1>
 <p>Je m'appelle Lucas Burdier et je suis étudiant dans le domaine de l'informatique et artiste dans le monde de la 3D.</p>
-<img src="https://github.com/lburdier/lburdier/assets/156812285/b0ac3e69-00b0-4ab7-9dba-cba3468c9b5c)" alt="parcours">
 
 <h2>👀 Mes centres d'intêret</h2>
 <p>Le développement web ainsi qu'à d'autres domaines comme le monde des effets spéciaux, de la 3D et du design en général.</p>
