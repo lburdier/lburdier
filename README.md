@@ -6,7 +6,7 @@ Computer Science Student & 3D Artist.
 
 ## 🛠️ Languages and Technologies Used
 
-- **Languages**: HTML, CSS, JavaScript, PHP, Java, JavaFX, SQL, PL/pgSQL
+- **Languages**: ```HTML, CSS, JavaScript, PHP, Java, JavaFX, SQL, PL/pgSQL```
 - **Other Skills**: Web development, 3D design, special effects, graphic design
 
 ---
