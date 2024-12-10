@@ -1,15 +1,37 @@
-<h1>👋 Bonjour, je m'appelle Lucas Burdier</h1>
-<p>Je m'appelle Lucas Burdier et je suis étudiant dans le domaine de l'informatique et artiste dans le monde de la 3D.</p>
+# 👋 Hello, my name is Lucas Burdier
 
-<h2>👀 Mes centres d'intêret</h2>
-<p>Le développement web ainsi qu'à d'autres domaines comme le monde des effets spéciaux, de la 3D et du design en général.</p>
+Computer Science Student & 3D Artist.
 
-<h2>💪 Mes compétences</h2>
-<img src="https://github.com/lburdier/lburdier/assets/156812285/5d046b31-5fcd-47a1-849d-b8e58f5887ab" alt="compétences">
+---
 
-<h2>📫 Comment me contacter ?</h2>
-<p>Vous pouvez me joindre via:</p>
-<ul>
-    <li>Réseaux sociaux : <a href="https://www.instagram.com/luki_prox/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/lucasburdier/" target="_blank">LinkedIn</a></li>
-    <li>Email : <a href="mailto:lucas.burdier26@gmail.com">lucas.burdier26@gmail.com</a></li>
-</ul>
+## 🛠️ Languages and Technologies Used
+
+- **Languages**: HTML, CSS, JavaScript, PHP, Java, JavaFX, SQL, PL/pgSQL
+- **Other Skills**: Web development, 3D design, special effects, graphic design
+
+---
+
+## 👀 My Interests
+
+I am passionate about web development, special effects, 3D, and design in general.
+
+---
+
+## 📊 My GitHub Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lburdier&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lburdier/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 📫 How to Contact Me?
+
+You can reach me via:
+
+- **Social Media**: [Instagram](https://www.instagram.com/luki_prox/) | [LinkedIn](https://www.linkedin.com/in/lucasburdier/)
+- **Email**: [lucas.burdier26@gmail.com](mailto:lucas.burdier26@gmail.com)
+
+---
+
+© 2024 Lucas Burdier. All rights reserved.
