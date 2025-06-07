@@ -28,6 +28,7 @@ Computer Science Student & 3D Artist.
 I am passionate about web development, special effects, 3D, and design in general.
 
 If you’d like to support me, consider making a donation on my Ko-fi page:  
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8X24NF)
 
 ---
