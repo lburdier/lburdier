@@ -1,53 +1,89 @@
-# 👋 Hello, my name is Lucas Burdier
+<!-- Header -->
+<div align="center">
 
-Computer Science Student & 3D Artist.
+# Lucas Burdier
 
----
+**Computer Science Student — 3D Artist**  
+Lyon, France · 2026
 
-## 🛠️ Languages and Technologies Used
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--burdier-8fa0b0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasburdier/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-7a9080?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/D1D8X24NF)
+[![Instagram](https://img.shields.io/badge/Instagram-luki__prox-888888?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luki_prox/)
+[![Email](https://img.shields.io/badge/email-lucas.burdier26%40gmail.com-3d3d3d?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.burdier26@gmail.com)
 
-- **Languages**:  
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white)
-  ![PL/pgSQL](https://img.shields.io/badge/PL--pgSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-
-- **Other Skills**:  
-  ![Web Development](https://img.shields.io/badge/Web%20Development-%2300BFFF.svg?style=flat&logo=google-chrome&logoColor=white)  
-  ![3D Design](https://img.shields.io/badge/3D%20Design-%23FF5722.svg?style=flat&logo=blender&logoColor=white)  
-  ![Special Effects](https://img.shields.io/badge/Special%20Effects-%23FF9800.svg?style=flat&logo=adobe-after-effects&logoColor=white)  
-  ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-%23E4405F.svg?style=flat&logo=adobe-photoshop&logoColor=white)
+</div>
 
 ---
 
-## 👀 My Interests
+## About
 
-I am passionate about web development, special effects, 3D, and design in general.
+Precison over decoration. I work at the intersection of technical rigor and cinematic sensibility — building web systems, crafting 3D assets, and designing experiences with deliberate restraint.
 
-If you’d like to support me, consider making a donation on my Ko-fi page:  
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8X24NF)
-
----
-
-## 📊 My GitHub Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lburdier&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lburdier/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true)
+Currently studying Computer Science at YNOV Lyon.  
+Currently developing *The Worst Roommate* — a PS1-aesthetic horror game.
 
 ---
 
-## 📫 How to Contact Me?
+## Disciplines
 
-You can reach me via:
+**development**
+- Web — HTML, CSS, JavaScript, PHP, Java, SQL, PL/pgSQL
+- Version control — Git / GitHub
+- Backend — Node.js
 
-- **Social Media**: [Instagram](https://www.instagram.com/luki_prox/) | [LinkedIn](https://www.linkedin.com/in/lucasburdier/)
-- **Email**: [lucas.burdier26@gmail.com](mailto:lucas.burdier26@gmail.com)
+**3d & visual**
+- Modeling — Blender, Maya
+- Texturing — Substance Painter / PBR pipeline
+- Pipeline — Blender → Substance → DaVinci / ACES · EXR 32-bit output
+- VFX & Compositing — After Effects
+
+**design**
+- Graphic Design — Photoshop, Figma
+- Art Direction — DA systems, identity, motion principles
+- Sound Design — cinematic, industrial, minimal
 
 ---
 
-© 2024 Lucas Burdier. All rights reserved.
+## Stack
+
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![After Effects](https://img.shields.io/badge/after%20effects-%239999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+## Projects
+
+### The Worst Roommate
+*Horror game — PS1 aesthetic, stealth mechanics, narrative focus.*  
+Low-poly 3D assets, VHS post-processing, psychological atmosphere.  
+`Blender` `Godot` `PBR` `PS1` `Horror`
+
+> Active development — 2025 / 2026
+
+---
+
+## GitHub
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lburdier&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa)](https://github.com/lburdier)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true&title_color=8fa0b0&text_color=aaaaaa)](https://github.com/lburdier)
+
+</div>
+
+---
+
+<div align="center">
+<sub>lucas burdier · 2026 · lyon, fr</sub>
+</div>
