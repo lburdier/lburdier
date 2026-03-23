@@ -9,7 +9,6 @@ Lyon, France · 2026
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--burdier-8fa0b0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasburdier/)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-7a9080?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/D1D8X24NF)
 [![Instagram](https://img.shields.io/badge/Instagram-luki__prox-888888?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luki_prox/)
-[![Email](https://img.shields.io/badge/email-lucas.burdier26%40gmail.com-3d3d3d?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.burdier26@gmail.com)
 
 </div>
 
