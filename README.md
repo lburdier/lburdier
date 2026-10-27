@@ -3,7 +3,7 @@
 
 # Lucas Burdier
 
-**Computer Science Student — Developer & 3D Artist**  
+**Computer Science Student · Developer & 3D Artist**  
 Lyon, France · 2026
 
 [![Website](https://img.shields.io/badge/lburdier.fr-portfolio-8fa0b0?style=flat-square&logo=googlechrome&logoColor=white)](https://lburdier.fr)
@@ -17,10 +17,10 @@ Lyon, France · 2026
 
 ## About
 
-Precision over decoration. I work at the intersection of technical rigor and cinematic sensibility — building desktop tools and web systems, crafting 3D assets, and designing experiences with deliberate restraint.
+Precision over decoration. I work at the intersection of technical rigor and cinematic sensibility: building desktop tools and web systems, crafting 3D assets, and designing experiences with deliberate restraint.
 
 Currently studying Computer Science at YNOV Lyon.  
-Currently developing *The Worst Roommate* — a PS1-aesthetic horror game — and **EasyUV**, an open-source UV unwrapper in Rust.
+Currently developing *The Worst Roommate*, a PS1-aesthetic horror game, and **EasyUV**, an open-source UV unwrapper in Rust.
 
 ---
 
@@ -40,23 +40,23 @@ Currently developing *The Worst Roommate* — a PS1-aesthetic horror game — an
 ## Disciplines
 
 **development**
-- Desktop — Rust (egui), Electron, Windows tooling
-- Web — HTML, CSS, JavaScript, TypeScript, React, PHP, Java, SQL, PL/pgSQL
-- Mobile — Kotlin (Android)
-- Scripting — Python
-- Backend — Node.js
-- Version control — Git / GitHub, GitHub Actions
+- Desktop: Rust (egui), Electron, Windows tooling
+- Web: HTML, CSS, JavaScript, TypeScript, React, PHP, Java, SQL, PL/pgSQL
+- Mobile: Kotlin (Android)
+- Scripting: Python
+- Backend: Node.js
+- Version control: Git / GitHub, GitHub Actions
 
 **3d & visual**
-- Modeling — Blender, Maya
-- Texturing — Substance Painter / PBR pipeline
-- Pipeline — Blender → Substance → DaVinci / ACES · EXR 32-bit output
-- VFX & Compositing — After Effects
+- Modeling: Blender, Maya
+- Texturing: Substance Painter / PBR pipeline
+- Pipeline: Blender → Substance → DaVinci / ACES · EXR 32-bit output
+- VFX & Compositing: After Effects
 
 **design**
-- Graphic Design — Photoshop, Figma
-- Art Direction — DA systems, identity, motion principles
-- Sound Design — cinematic, industrial, minimal
+- Graphic Design: Photoshop, Figma
+- Art Direction: DA systems, identity, motion principles
+- Sound Design: cinematic, industrial, minimal
 
 ---
 
