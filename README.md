@@ -39,14 +39,10 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 </div>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[EasyUV](https://github.com/lburdier/EasyUV)** | Smart automatic UV unwrapping: Windows app, CLI and Blender add-on sharing one engine (LSCM + ARAP, texel density, self-learning). Open source, GPL-3.0. | `Rust` `egui` `Blender` |
-| **[CV GEN](https://github.com/lburdier/cv-gen)** | Windows app to build ATS-friendly resumes: 500 templates, Canva-style editor, local ATS score, AI tailoring, job tracker, LinkedIn extension. | `TypeScript` `Electron` `React` |
-| **[InstaGrowth](https://github.com/lburdier/instagrowth)** | Chrome extension adding stats, AI post analysis, scheduling and lead tools right inside Instagram. | `JavaScript` `Manifest V3` |
-| **[The Worst Roommate](https://github.com/lburdier/TheWorstRoommate)** | Narrative psychological survival game in an urban flat, PS1 style, team project. | `Unreal Engine 5` `Blender` |
-| **[Umbra Editor](https://github.com/lburdier/Umbra_Engine-releases)** | Retro horror game editor for Windows. | `Direct3D 11` `Windows` |
-| **[Claude Bridge](https://github.com/lburdier/claude-bridge-releases)** | Multi-account Claude manager for Windows: Code workspace, node-based workflows, token stats. | `Windows` |
+**Also shipping**
+
+- **[Umbra Editor](https://github.com/lburdier/Umbra_Engine-releases)**: retro horror game editor for Windows (Direct3D 11).
+- **[Claude Bridge](https://github.com/lburdier/claude-bridge-releases)**: multi-account Claude manager for Windows, with a Code workspace, node-based workflows and token stats.
 
 ---
 
