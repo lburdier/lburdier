@@ -46,6 +46,30 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 ---
 
+## In pictures
+
+<p align="center">
+  <a href="https://github.com/lburdier/EasyUV"><img src="assets/easyuv.png" width="100%" alt="EasyUV unwrapping Suzanne"></a>
+  <br><sub><b>EasyUV</b>: Suzanne unwrapped in one key press, 17 islands, UV score 88, checker preview on the model</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/cv-gen"><img src="https://raw.githubusercontent.com/lburdier/cv-gen/main/docs/screenshots/01-accueil.jpg" alt="CV GEN home"></a><br><sub><b>CV GEN</b>: home screen</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/cv-gen"><img src="https://raw.githubusercontent.com/lburdier/cv-gen/main/docs/screenshots/04-editeur.jpg" alt="CV GEN editor"></a><br><sub><b>CV GEN</b>: live editor with ATS score</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/cv-gen"><img src="https://raw.githubusercontent.com/lburdier/cv-gen/main/docs/screenshots/03-studio.jpg" alt="CV GEN design studio"></a><br><sub><b>CV GEN</b>: design studio, 500 templates</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/instagrowth"><img src="https://raw.githubusercontent.com/lburdier/instagrowth/main/docs/screenshots/dashboard.png" alt="InstaGrowth stats"></a><br><sub><b>InstaGrowth</b>: stats and recent posts (demo data)</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/instagrowth"><img src="https://raw.githubusercontent.com/lburdier/instagrowth/main/docs/screenshots/instagram-profile.png" alt="InstaGrowth inside Instagram"></a><br><sub><b>InstaGrowth</b>: native buttons inside Instagram</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/instagrowth"><img src="https://raw.githubusercontent.com/lburdier/instagrowth/main/docs/screenshots/leads.png" alt="InstaGrowth leads"></a><br><sub><b>InstaGrowth</b>: lead search and mini-CRM</sub></td>
+  </tr>
+</table>
+
+---
+
 ## Stack
 
 <div align="center">
