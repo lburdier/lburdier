@@ -1,15 +1,15 @@
 <!-- Header -->
 <div align="center">
 
-# Lucas Burdier
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2733,100:8fa0b0&height=190&section=header&text=Lucas%20Burdier&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Developer%20%C2%B7%203D%20Artist%20%C2%B7%20Lyon%2C%20France&descSize=17&descAlignY=58" width="100%" alt="Lucas Burdier">
 
-**Computer Science Student · Developer & 3D Artist**  
-Lyon, France · 2026
+<a href="https://github.com/lburdier"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=8FA0B0&center=true&vCenter=true&width=620&lines=Computer+Science+student+at+YNOV+Lyon;Building+EasyUV%2C+an+open-source+UV+unwrapper+in+Rust;Desktop+tools%2C+web+systems+and+3D+assets;Looking+for+contributors%3A+come+build+with+me" alt="Typing intro"></a>
 
 [![Website](https://img.shields.io/badge/lburdier.fr-portfolio-8fa0b0?style=flat-square&logo=googlechrome&logoColor=white)](https://lburdier.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--burdier-8fa0b0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasburdier/)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-7a9080?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/D1D8X24NF)
 [![Instagram](https://img.shields.io/badge/Instagram-luki__prox-888888?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luki_prox/)
+![Profile views](https://komarev.com/ghpvc/?username=lburdier&style=flat-square&color=7a9080&label=profile+views)
 
 </div>
 
@@ -19,12 +19,25 @@ Lyon, France · 2026
 
 Precision over decoration. I work at the intersection of technical rigor and cinematic sensibility: building desktop tools and web systems, crafting 3D assets, and designing experiences with deliberate restraint.
 
-Currently studying Computer Science at YNOV Lyon.  
-Currently developing *The Worst Roommate*, a PS1-aesthetic horror game, and **EasyUV**, an open-source UV unwrapper in Rust.
+- Studying Computer Science at **YNOV Lyon**
+- Building **[EasyUV](https://github.com/lburdier/EasyUV)**, an open-source automatic UV unwrapper in Rust, with a Blender add-on
+- Developing **[The Worst Roommate](https://github.com/lburdier/TheWorstRoommate)**, a PS1-style psychological horror game
+- Shipping Windows apps with automatic updates: CV GEN, Umbra Editor, Claude Bridge
+
+> **Let's build something together.** EasyUV welcomes contributors of every level: Rust, Python (Blender add-on), geometry, UI, docs and translations. Pick an issue, open a PR, or just say hi on [LinkedIn](https://www.linkedin.com/in/lucasburdier/).
 
 ---
 
 ## Featured projects
+
+<div align="center">
+
+<a href="https://github.com/lburdier/EasyUV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=EasyUV&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="EasyUV"></a>
+<a href="https://github.com/lburdier/cv-gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=cv-gen&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="CV GEN"></a>
+<a href="https://github.com/lburdier/instagrowth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=instagrowth&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="InstaGrowth"></a>
+<a href="https://github.com/lburdier/TheWorstRoommate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=TheWorstRoommate&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="The Worst Roommate"></a>
+
+</div>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -32,12 +45,31 @@ Currently developing *The Worst Roommate*, a PS1-aesthetic horror game, and **Ea
 | **[CV GEN](https://github.com/lburdier/cv-gen)** | Windows app to build ATS-friendly resumes: 500 templates, Canva-style editor, local ATS score, AI tailoring, job tracker, LinkedIn extension. | `TypeScript` `Electron` `React` |
 | **[InstaGrowth](https://github.com/lburdier/instagrowth)** | Chrome extension adding stats, AI post analysis, scheduling and lead tools right inside Instagram. | `JavaScript` `Manifest V3` |
 | **[The Worst Roommate](https://github.com/lburdier/TheWorstRoommate)** | Narrative psychological survival game in an urban flat, PS1 style, team project. | `Unreal Engine 5` `Blender` |
-| **[Umbra Engine](https://github.com/lburdier/Umbra_Engine-releases)** | Retro horror game engine and editor for Windows. | `Direct3D 11` `Windows` |
+| **[Umbra Editor](https://github.com/lburdier/Umbra_Engine-releases)** | Retro horror game editor for Windows. | `Direct3D 11` `Windows` |
 | **[Claude Bridge](https://github.com/lburdier/claude-bridge-releases)** | Multi-account Claude manager for Windows: Code workspace, node-based workflows, token stats. | `Windows` |
 
 ---
 
-## Disciplines
+## Stack
+
+<div align="center">
+
+**Code**
+
+<img src="https://skillicons.dev/icons?i=rust,ts,js,react,electron,nodejs,python,kotlin&theme=dark" alt="Rust, TypeScript, JavaScript, React, Electron, Node.js, Python, Kotlin">
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,php,java,postgres,git,githubactions,vscode&theme=dark" alt="HTML, CSS, PHP, Java, PostgreSQL, Git, GitHub Actions, VS Code">
+
+**3D & design**
+
+<img src="https://skillicons.dev/icons?i=blender,unreal,maya,ae,ps,figma&theme=dark" alt="Blender, Unreal Engine, Maya, After Effects, Photoshop, Figma">
+
+</div>
+
+<details>
+<summary><b>Disciplines</b></summary>
+
+<br>
 
 **development**
 - Desktop: Rust (egui), Electron, Windows tooling
@@ -58,29 +90,7 @@ Currently developing *The Worst Roommate*, a PS1-aesthetic horror game, and **Ea
 - Art Direction: DA systems, identity, motion principles
 - Sound Design: cinematic, industrial, minimal
 
----
-
-## Stack
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Electron](https://img.shields.io/badge/electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
-![Maya](https://img.shields.io/badge/maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
-![After Effects](https://img.shields.io/badge/after%20effects-%239999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+</details>
 
 ---
 
@@ -88,14 +98,17 @@ Currently developing *The Worst Roommate*, a PS1-aesthetic horror game, and **Ea
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lburdier&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa)](https://github.com/lburdier)
+<img src="https://github-readme-stats.vercel.app/api?username=lburdier&show_icons=true&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true&title_color=8fa0b0&text_color=aaaaaa" height="165" alt="Top languages">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true&title_color=8fa0b0&text_color=aaaaaa)](https://github.com/lburdier)
+<img src="https://streak-stats.demolab.com?user=lburdier&theme=transparent&hide_border=true&ring=8fa0b0&fire=7a9080&currStreakLabel=8fa0b0&sideLabels=aaaaaa&currStreakNum=dddddd&sideNums=dddddd&dates=888888" alt="Contribution streak">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lburdier/lburdier/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lburdier/lburdier/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/lburdier/lburdier/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
----
-
-<div align="center">
-<sub>lucas burdier · 2026 · lyon, fr</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fa0b0,100:1b2733&height=110&section=footer&animation=fadeIn" width="100%" alt="">
