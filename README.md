@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2733,100:8fa0b0&height=190&section=header&text=Lucas%20Burdier&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Developer%20%C2%B7%203D%20Artist%20%C2%B7%20Lyon%2C%20France&descSize=17&descAlignY=58" width="100%" alt="Lucas Burdier">
 
-<a href="https://github.com/lburdier"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=8FA0B0&center=true&vCenter=true&width=620&lines=Computer+Science+student+at+YNOV+Lyon;Building+EasyUV%2C+an+open-source+UV+unwrapper+in+Rust;Desktop+tools%2C+web+systems+and+3D+assets;Looking+for+contributors%3A+come+build+with+me" alt="Typing intro"></a>
+<a href="https://github.com/lburdier"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=8FA0B0&center=true&vCenter=true&width=620&lines=Computer+Science+student+at+YNOV+Lyon;Building+EasyUV%2C+an+open-source+UV+unwrapper+in+Rust;easyuv-lint%3A+lint+your+3D+assets+in+CI;Desktop+tools%2C+web+systems+and+3D+assets;Looking+for+contributors%3A+come+build+with+me" alt="Typing intro"></a>
 
 [![Website](https://img.shields.io/badge/lburdier.fr-portfolio-8fa0b0?style=flat-square&logo=googlechrome&logoColor=white)](https://lburdier.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--burdier-8fa0b0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasburdier/)
@@ -21,6 +21,7 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 - Studying Computer Science at **YNOV Lyon**
 - Building **[EasyUV](https://github.com/lburdier/EasyUV)**, an open-source automatic UV unwrapper in Rust, with a Blender add-on
+- Shipping **[easyuv-lint](https://github.com/lburdier/easyuv-lint)**: a CLI and GitHub Action that catches broken 3D assets (UV overlaps, texel density, polycount, scale) on every pull request
 - Developing **[The Worst Roommate](https://github.com/lburdier/TheWorstRoommate)**, a PS1-style psychological horror game
 - Shipping Windows apps with automatic updates: CV GEN, Umbra Editor, Claude Bridge
 
@@ -33,6 +34,7 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 <div align="center">
 
 <a href="https://github.com/lburdier/EasyUV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=EasyUV&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="EasyUV"></a>
+<a href="https://github.com/lburdier/easyuv-lint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=easyuv-lint&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="easyuv-lint"></a>
 <a href="https://github.com/lburdier/cv-gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=cv-gen&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="CV GEN"></a>
 <a href="https://github.com/lburdier/instagrowth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=instagrowth&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="InstaGrowth"></a>
 <a href="https://github.com/lburdier/TheWorstRoommate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=TheWorstRoommate&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="The Worst Roommate"></a>
