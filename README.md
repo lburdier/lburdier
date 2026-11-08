@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2733,100:8fa0b0&height=190&section=header&text=Lucas%20Burdier&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Developer%20%C2%B7%203D%20Artist%20%C2%B7%20Lyon%2C%20France&descSize=17&descAlignY=58" width="100%" alt="Lucas Burdier">
 
-<a href="https://github.com/lburdier"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=8FA0B0&center=true&vCenter=true&width=620&lines=Computer+Science+student+at+YNOV+Lyon;Building+EasyUV%2C+an+open-source+UV+unwrapper+in+Rust;easyuv-lint%3A+lint+your+3D+assets+in+CI;Desktop+tools%2C+web+systems+and+3D+assets;Looking+for+contributors%3A+come+build+with+me" alt="Typing intro"></a>
+<a href="https://github.com/lburdier"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=8FA0B0&center=true&vCenter=true&width=620&lines=Computer+Science+student+at+YNOV+Lyon;Blender+Multiplayer%3A+edit+one+scene+together%2C+live;witness360%3A+camera+tracking+with+a+360+witness+cam;Building+EasyUV%2C+an+open-source+UV+unwrapper+in+Rust;easyuv-lint%3A+lint+your+3D+assets+in+CI;Desktop+tools%2C+web+systems+and+3D+assets;Looking+for+contributors%3A+come+build+with+me" alt="Typing intro"></a>
 
 [![Website](https://img.shields.io/badge/lburdier.fr-portfolio-8fa0b0?style=flat-square&logo=googlechrome&logoColor=white)](https://lburdier.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--burdier-8fa0b0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasburdier/)
@@ -20,6 +20,8 @@
 Precision over decoration. I work at the intersection of technical rigor and cinematic sensibility: building desktop tools and web systems, crafting 3D assets, and designing experiences with deliberate restraint.
 
 - Studying Computer Science at **YNOV Lyon**
+- New: **[Blender Multiplayer](https://github.com/lburdier/blender-multiplayer)**, a Blender add-on to edit the same scene together in real time, on a LAN or over the internet with a private invite link
+- New: **[witness360](https://github.com/lburdier/witness360-releases)**, a Windows and Mac app that tracks a shot with the help of a 360 camera mounted on the rig, then sends the camera and a matched HDRI to Blender
 - Building **[EasyUV](https://github.com/lburdier/EasyUV)**, an open-source automatic UV unwrapper in Rust, with a Blender add-on
 - Shipping **[easyuv-lint](https://github.com/lburdier/easyuv-lint)**: a CLI and GitHub Action that catches broken 3D assets (UV overlaps, texel density, polycount, scale) on every pull request
 - Developing **[The Worst Roommate](https://github.com/lburdier/TheWorstRoommate)**, a PS1-style psychological horror game
@@ -29,10 +31,52 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 ---
 
+## Latest projects
+
+### Blender Multiplayer
+
+**Several people, one Blender scene, live.** The host shares a private link, guests click it and land in the same scene, on the same network or across the internet (built-in relay, no port forwarding). Every change syncs as it happens: objects, meshes, materials, textures (even while painting), lights, animation. Each player sees who selects what, undo is shared, and the history, chat, autosaves and backups keep the project safe. Render settings stay personal to each PC. Blender 4.2+ and 5.x, pure Python, automatic updates through a Blender extension repository.
+
+[![Download](https://img.shields.io/github/v/release/lburdier/blender-multiplayer?style=flat-square&label=download&color=8fa0b0)](https://github.com/lburdier/blender-multiplayer/releases/latest)
+[![Website](https://img.shields.io/badge/install-extension%20repository-7a9080?style=flat-square&logo=blender&logoColor=white)](https://lburdier.github.io/blender-multiplayer/)
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/blender-multiplayer"><img src="https://raw.githubusercontent.com/lburdier/blender-multiplayer/main/docs/images/vue_hote.png" alt="Blender Multiplayer, host view"></a><br><sub><b>Host</b>: invite link, internet and LAN addresses, players, history, chat</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/blender-multiplayer"><img src="https://raw.githubusercontent.com/lburdier/blender-multiplayer/main/docs/images/vue_invite.png" alt="Blender Multiplayer, guest view"></a><br><sub><b>Guest</b>: joined over the internet, the host's selection shown in red</sub></td>
+  </tr>
+</table>
+
+### witness360
+
+**Camera tracking helped by a 360 "witness" camera.** A 360 camera screwed onto the camera rig sees everything around the shot and records its gyroscope. witness360 syncs it to the shot by sound, tracks the plate, solves the camera with the 360 rotation, measures the real field of view on the 360 image, builds an HDRI matched to the plate's colour and exposure, then exports everything to Blender (Alembic .abc and a ready .blend). Insta360 .insv, any camera, S-Log3 / V-Log / LogC and more. Windows and macOS.
+
+[![Download](https://img.shields.io/github/v/release/lburdier/witness360-releases?style=flat-square&label=download&color=8fa0b0)](https://github.com/lburdier/witness360-releases/releases/latest)
+
+<p align="center">
+  <a href="https://github.com/lburdier/witness360-releases"><img src="https://raw.githubusercontent.com/lburdier/witness360-releases/main/captures/06_solveur_quad.png" width="100%" alt="witness360 solver"></a>
+  <br><sub><b>Solver</b>: 1803 3D points, 296 frames solved with the 360 gyroscope, error per tracker on the plate</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/witness360-releases"><img src="https://raw.githubusercontent.com/lburdier/witness360-releases/main/captures/02_medias_synchro.png" alt="witness360 sync"></a><br><sub><b>Sync</b>: the shot found in a 10 min 360 clip by sound, to the half millisecond</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/witness360-releases"><img src="https://raw.githubusercontent.com/lburdier/witness360-releases/main/captures/11_hdri.png" alt="witness360 HDRI"></a><br><sub><b>HDRI</b>: 4096 x 2048 EXR from the 360, colour matched to the plate</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/witness360-releases"><img src="https://raw.githubusercontent.com/lburdier/witness360-releases/main/captures/03_trackers_quad.png" alt="witness360 trackers"></a><br><sub><b>Trackers</b>: hundreds of points, forward-backward check</sub></td>
+    <td width="50%" align="center"><a href="https://github.com/lburdier/witness360-releases"><img src="https://raw.githubusercontent.com/lburdier/witness360-releases/main/captures/12_export_blender.png" alt="witness360 export"></a><br><sub><b>Export</b>: animated camera, point cloud, plate and HDRI straight into Blender</sub></td>
+  </tr>
+</table>
+
+---
+
 ## Featured projects
 
 <div align="center">
 
+<a href="https://github.com/lburdier/blender-multiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=blender-multiplayer&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="Blender Multiplayer"></a>
+<a href="https://github.com/lburdier/witness360-releases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=witness360-releases&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="witness360"></a>
 <a href="https://github.com/lburdier/EasyUV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=EasyUV&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="EasyUV"></a>
 <a href="https://github.com/lburdier/easyuv-lint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=easyuv-lint&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="easyuv-lint"></a>
 <a href="https://github.com/lburdier/cv-gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=cv-gen&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="CV GEN"></a>
