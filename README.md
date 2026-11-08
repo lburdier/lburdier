@@ -75,13 +75,13 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 <div align="center">
 
-<a href="https://github.com/lburdier/blender-multiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=blender-multiplayer&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="Blender Multiplayer"></a>
-<a href="https://github.com/lburdier/witness360-releases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=witness360-releases&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="witness360"></a>
-<a href="https://github.com/lburdier/EasyUV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=EasyUV&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="EasyUV"></a>
-<a href="https://github.com/lburdier/easyuv-lint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=easyuv-lint&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="easyuv-lint"></a>
-<a href="https://github.com/lburdier/cv-gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=cv-gen&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="CV GEN"></a>
-<a href="https://github.com/lburdier/instagrowth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=instagrowth&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="InstaGrowth"></a>
-<a href="https://github.com/lburdier/TheWorstRoommate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lburdier&repo=TheWorstRoommate&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" alt="The Worst Roommate"></a>
+<a href="https://github.com/lburdier/blender-multiplayer"><img src="assets/cards/pin-blender-multiplayer.svg" width="400" alt="Blender Multiplayer"></a>
+<a href="https://github.com/lburdier/witness360-releases"><img src="assets/cards/pin-witness360-releases.svg" width="400" alt="witness360"></a>
+<a href="https://github.com/lburdier/EasyUV"><img src="assets/cards/pin-easyuv.svg" width="400" alt="EasyUV"></a>
+<a href="https://github.com/lburdier/easyuv-lint"><img src="assets/cards/pin-easyuv-lint.svg" width="400" alt="easyuv-lint"></a>
+<a href="https://github.com/lburdier/cv-gen"><img src="assets/cards/pin-cv-gen.svg" width="400" alt="CV GEN"></a>
+<a href="https://github.com/lburdier/instagrowth"><img src="assets/cards/pin-instagrowth.svg" width="400" alt="InstaGrowth"></a>
+<a href="https://github.com/lburdier/TheWorstRoommate"><img src="assets/cards/pin-theworstroommate.svg" width="400" alt="The Worst Roommate"></a>
 
 </div>
 
@@ -164,8 +164,8 @@ Precision over decoration. I work at the intersection of technical rigor and cin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lburdier&show_icons=true&theme=transparent&hide_border=true&title_color=8fa0b0&icon_color=7a9080&text_color=aaaaaa" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lburdier&layout=compact&theme=transparent&hide_border=true&title_color=8fa0b0&text_color=aaaaaa" height="165" alt="Top languages">
+<img src="assets/cards/stats.svg" height="165" alt="GitHub stats">
+<img src="assets/cards/languages.svg" height="165" alt="Top languages">
 
 <img src="https://streak-stats.demolab.com?user=lburdier&theme=transparent&hide_border=true&ring=8fa0b0&fire=7a9080&currStreakLabel=8fa0b0&sideLabels=aaaaaa&currStreakNum=dddddd&sideNums=dddddd&dates=888888" alt="Contribution streak">
 
